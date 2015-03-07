@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-contextmenu",
+  "name": "bootstrap-contextmenu-fork",
   "main": "bootstrap-contextmenu.js",
   "version": "0.3.2",
-  "homepage": "https://github.com/sydcanem/bootstrap-contextmenu",
+  "homepage": "https://github.com/randrianov/bootstrap-contextmenu.git",
   "authors": [
     "sydcanem <icqhv.santos@gmail.com>"
   ],
