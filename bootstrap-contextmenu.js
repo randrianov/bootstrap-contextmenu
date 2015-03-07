@@ -68,6 +68,9 @@
 		}
 
 		,closemenu: function(e) {
+			if (e && $(e.target).closest('.dropdown-subpopover').length > 0) {
+				return true;
+			}
 			var $menu
 				, evt
 				, items
