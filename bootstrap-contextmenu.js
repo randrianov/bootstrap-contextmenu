@@ -68,7 +68,7 @@
 		}
 
 		,closemenu: function(e) {
-			if (e && $(e.target).closest('.dropdown-subpopover').length > 0) {
+			if (e && $(e.target).closest('.no-close').length > 0) {
 				return true;
 			}
 			var $menu
